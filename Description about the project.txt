@@ -1,0 +1,10 @@
+Turning raw data into meaningful insights 📊
+I recently completed a SQL project where I built a database by importing flat files and then explored the data in depth. Through this process, I performed exploratory data analysis to better understand patterns and trends within the dataset.
+My analysis included:
+ • Database exploration
+ • Data exploration
+ • Dimensions exploration
+ • Magnitude analysis
+ • Measures exploration
+ • Ranking analysis
+This project helped me strengthen my SQL skills and gain hands-on experience in extracting valuable insights from data.
